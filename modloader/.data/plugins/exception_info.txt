@@ -1,0 +1,26 @@
+Exception Type: 0
+Code: 0
+Exception at address: 0x6dac22cc
+Exception Code: 0xc0000005 || Exception Flags: 0
+Exception Info 0: 0 || Exception Info 1: 187
+Exception Info 2: 65599
+NumberParameters: 2
+
+EAX: 0x1db20c8 || EBX: 0x1db20b8
+ECX: 0x18ce828 || EDX: 0x0
+EDI: 0x22fa6c || ESI: 0x8f
+EBP: 0x22f9f8 || ESP: 0x22f9b0
+
+EFlags: 0x210202
+EIP: 0x6dac22cc
+
+ContextFlags: 0x1003f
+Debug registers:
+Dr0: 0x0 || Dr1: 0x0
+Dr2: 0x0 || Dr3: 0x0
+Dr6: 0x0 || Dr7: 0x0
+
+FloatSave: 0.000000
+SegCs: 27 || SegDs: 35
+SegEs: 35 || SegFs: 59
+SegGs: 0 || SegSs: 35

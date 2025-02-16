@@ -1,0 +1,78 @@
+[13:38:56.415688] (system)	Session started.
+[13:38:56.415688] (debug)	Module handle: 6CD10000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[13:38:56.415688] (info)	Working directory: C:\Games\arizona sborka xueta\moonloader
+[13:38:56.415688] (debug)	FP Control: 0109001F
+[13:38:56.415688] (debug)	Game: GTA SA 1.0.0.0 US
+[13:38:56.415688] (system)	Installing pre-game hooks...
+[13:38:56.418677] (system)	Hooks installed.
+[13:38:58.701053] (debug)	Initializing opcode handler table
+[13:38:58.701053] (debug)	package.path = C:\Games\arizona sborka xueta\moonloader\lib\?.lua;C:\Games\arizona sborka xueta\moonloader\lib\?\init.lua;C:\Games\arizona sborka xueta\moonloader\?.lua;C:\Games\arizona sborka xueta\moonloader\?\init.lua;.\?.lua;C:\Games\arizona sborka xueta\moonloader\lib\?.luac;C:\Games\arizona sborka xueta\moonloader\lib\?\init.luac;C:\Games\arizona sborka xueta\moonloader\?.luac;C:\Games\arizona sborka xueta\moonloader\?\init.luac;.\?.luac
+[13:38:58.701053] (debug)	package.cpath = C:\Games\arizona sborka xueta\moonloader\lib\?.dll;
+[13:38:58.703045] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\alt_enter.lua'...
+[13:38:58.703045] (debug)	New script: 0ECE3D1C
+[13:38:58.704042] (system)	alt_enter.lua: Loaded successfully.
+[13:38:58.704042] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\AnimatedHPBars.luac'...
+[13:38:58.704042] (debug)	New script: 0ECE3EA4
+[13:38:58.706036] (system)	AnimatedHPBars.luac: Loaded successfully.
+[13:38:58.706036] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\atime.lua'...
+[13:38:58.706036] (debug)	New script: 0ECE2F54
+[13:38:58.709026] (system)	atime.lua: Loaded successfully.
+[13:38:58.709026] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\AutoReboot.lua'...
+[13:38:58.709026] (debug)	New script: 0ECE2C44
+[13:38:58.716014] (system)	ML-AutoReboot: Loaded successfully.
+[13:38:58.717000] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\CamHack.lua'...
+[13:38:58.717000] (debug)	New script: 0ECE3264
+[13:38:58.719989] (script)	CamHack V2: [CamHack V2] Настройки успешно загружены!
+[13:38:58.730952] (system)	CamHack V2: Loaded successfully.
+[13:38:58.730952] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\Chat-Calculator v3.lua'...
+[13:38:58.730952] (debug)	New script: 0ECE2DCC
+[13:38:58.735936] (system)	Чат-калькулятор: Loaded successfully.
+[13:38:58.735936] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\Climate.lua'...
+[13:38:58.735936] (debug)	New script: 0ECE249C
+[13:38:58.738927] (system)	Climate.lua: Loaded successfully.
+[13:38:58.739935] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\dellclock.lua'...
+[13:38:58.739935] (debug)	New script: 0ECE3574
+[13:38:58.741916] (system)	dellclock.lua: Loaded successfully.
+[13:38:58.742913] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\disaSmokeGunFlash.lua'...
+[13:38:58.742913] (debug)	New script: 0ECE36FC
+[13:38:58.742913] (system)	disaSmokeGunFlash.lua: Loaded successfully.
+[13:38:58.742913] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\fxcktimearz.lua'...
+[13:38:58.742913] (debug)	New script: 0ECE2624
+[13:38:58.743914] (system)	fxcktimearz.lua: Loaded successfully.
+[13:38:58.743914] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\GAMETWEAKER.lua'...
+[13:38:58.743914] (debug)	New script: 0ECE3884
+[13:38:58.767831] (system)	GAMETWEAKER.lua: Loaded successfully.
+[13:38:58.767831] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\imgui_notf.lua'...
+[13:38:58.767831] (debug)	New script: 0ECE27AC
+[13:38:58.770830] (system)	imgui_notf.lua: Loaded successfully.
+[13:38:58.771816] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\logo.lua'...
+[13:38:58.771816] (debug)	New script: 0ECE3A0C
+[13:38:58.774805] (system)	extendo: Loaded successfully.
+[13:38:58.774805] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\money_separator.lua'...
+[13:38:58.774805] (debug)	New script: 0ECE2ABC
+[13:38:58.778794] (system)	money_separator.lua: Loaded successfully.
+[13:38:58.778794] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\offSound-1-hook.lua'...
+[13:38:58.778794] (debug)	New script: 0ECE3B94
+[13:38:58.781783] (system)	offSound-1-hook.lua: Loaded successfully.
+[13:38:58.781783] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\patrones.lua'...
+[13:38:58.781783] (debug)	New script: 0CB9787C
+[13:38:58.783777] (system)	patrones: Loaded successfully.
+[13:38:58.783777] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\reload_all.lua'...
+[13:38:58.783777] (debug)	New script: 0CB97A04
+[13:38:58.789756] (system)	ML-ReloadAll: Loaded successfully.
+[13:38:58.789756] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\Server Time by Kalashnikov.lua'...
+[13:38:58.789756] (debug)	New script: 0CB96DC4
+[13:38:58.792747] (system)	Server Time by Kalashnikov.lua: Loaded successfully.
+[13:38:58.792747] (system)	Loading script 'C:\Games\arizona sborka xueta\moonloader\SF Integration.lua'...
+[13:38:58.792747] (debug)	New script: 0CB97B8C
+[13:38:58.794741] (system)	SF Integration: Loaded successfully.
+[13:38:58.796733] (system)	disaSmokeGunFlash.lua: Script terminated. (0ECE36FC)
+[13:39:10.740521] (system)	Installing post-load hooks...
+[13:39:10.740521] (system)	Hooks installed.

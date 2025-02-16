@@ -1,0 +1,160 @@
+{
+	"Crosshair": {
+		"fixcrosshair": true,
+		"crosshairX": 64,
+		"nocrosshaireditsize": false,
+		"crosshairSize": "1.060"
+	},
+	"Wanted": {
+		"posWantedY": "117.30",
+		"EditWanted": true,
+		"posWantedX": "-64.90",
+		"sizeWantedX": "0.30",
+		"spaceWanted": "13.20",
+		"eternalwanted": true,
+		"sizeWantedY": "0.64"
+	},
+	"Clock": {
+		"fontstyleclock": 3,
+		"posClockY": "47.40",
+		"sizeClockX": "0.35",
+		"posClockX": "-20.00",
+		"sizeClockY": "0.90",
+		"fontoutlineclock": 1,
+		"EditClock": true,
+		"DrawClock": true
+	},
+	"MenuPause": {
+		"mapzoomvalue": 300,
+		"beginmenu": true,
+		"fontmenuheaderstyle": 2,
+		"speedinputsmap": 21.53,
+		"fullmenuheight": 480,
+		"fullmenuimage": false,
+		"helptext": true,
+		"fullmenuwidth": 640,
+		"fontmenubasestyle": 2,
+		"fontmenutumblerstyle": 2,
+		"mapzoom": true,
+		"mapzoomfixer": true,
+		"fixloadmap": true
+	},
+	"Health": {
+		"posHealthX": "-188.70",
+		"nohealthflick": true,
+		"posHealthY": "67.80",
+		"sizeHealthY": "7.00",
+		"EditHealth": true,
+		"healthborder": true,
+		"sizeHealthX": "100.40"
+	},
+	"Money": {
+		"fontmoneystyle": 3,
+		"posMoneyY": "97.00",
+		"fontmoneyborder": 1,
+		"sizeMoneyX": "0.45",
+		"posMoneyX": "-64.4",
+		"EditMoney": true,
+		"animmoney": 2,
+		"nolimitmoneyhud": false,
+		"moneyzerofix": false,
+		"sizeMoneyY": "1.00"
+	},
+	"ArmorHud": {
+		"posX": "562.10",
+		"sizeX": 0.25,
+		"sizeY": 0.95,
+		"posY": "65.00",
+		"Status": true,
+		"fonts": 3,
+		"Color": "0xFFFFFFFF",
+		"armortext": false
+	},
+	"Patrons": {
+		"EditPatrons": true,
+		"posPatronsY": "87.20",
+		"singleclip": false,
+		"posPatronsX": "216.90",
+		"fontammostyle": 1,
+		"sizePatronsY": "0.71",
+		"EternalPatrons": false,
+		"sizePatronsX": 0.3,
+		"renderammo": true
+	},
+	"Radar": {
+		"smalliconsradar": true,
+		"quadro_icon_border": 1.4,
+		"trianglen_icon_size": 1.4,
+		"quadro_icon_size": 1.4,
+		"roundedRadarSize": "1.00",
+		"radrarnorth": false,
+		"arrowicon_menu": true,
+		"arrowmap_size": 10,
+		"trianglev_icon_border": 1.4,
+		"radarWidth": 76,
+		"radarfix": true,
+		"roundedRadar": true,
+		"radarHeight": 76,
+		"player_icon_size": 7.0500001907349,
+		"radarPosX": "29.80",
+		"radarPosY": "93.60",
+		"radaralpha": "255.00",
+		"trianglev_icon_size": 1.4,
+		"trianglen_icon_border": 1.4,
+		"radar_color_fix": true,
+		"osnov_icon": 7.5
+	},
+	"Breath": {
+		"eternalBreath": true,
+		"posBreathY": "83.40",
+		"breathborder": true,
+		"posBreathX": "-136.10",
+		"sizeBreathX": "57.00",
+		"sizeBreathY": "7.00",
+		"EditBreath": true
+	},
+	"Armor": {
+		"sizeArmorY": "7.10",
+		"eternalArmor": true,
+		"EditArmor": true,
+		"armorborder": true,
+		"posArmorX": "-136.30",
+		"sizeArmorX": "56.90",
+		"posArmorY": "70.50"
+	},
+	"Other": {
+		"showchat": false,
+		"targetblip": true,
+		"showhud": false
+	},
+	"Recolorer": {
+		"Health": -60928,
+		"Money": -1,
+		"Armor": -1,
+		"Recolorer": true,
+		"PlayerHealth2": -15461356,
+		"PlayerHealth": -65536,
+		"Patrons": -3543041,
+		"PlayerArmor": -1,
+		"PlayerArmor2": -15461356,
+		"Stars": -2851328
+	},
+	"HPHud": {
+		"posX": "562.20",
+		"sizeX": 0.25,
+		"sizeY": 0.95,
+		"posY": "55.60",
+		"Status": true,
+		"fonts": 3,
+		"Color": "0xFFFFFFFF",
+		"hptext": false
+	},
+	"Weapon": {
+		"sizeWeaponX": 47,
+		"posWeaponY": "61.70",
+		"sizeWeaponY": 58,
+		"posWeaponX": "52.60",
+		"Ebalo": false,
+		"EditWeapon": true
+	}
+}
